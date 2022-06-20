@@ -6,3 +6,4 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardo_lima100/igshid=YmMyMTA2M2Y=)
 
+![Eduardo Github stats](https://github-readme-stats.vercel.app/api?username=eduardo-559&show_icons=true&theme=radical)
