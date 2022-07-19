@@ -5,6 +5,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardo-559&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo-559&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+### Tecnologias que uso no dia a dia:
+
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
@@ -24,7 +27,8 @@
 </div>
   
   ##
- 
+### Entre em contato comigo:
+  
 <div> 
   <a href="https://www.linkedin.com/in/eduardo-sousa10" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  	<a href="https://eduardosousa.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
